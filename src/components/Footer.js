@@ -4,8 +4,8 @@ import React from 'react'
 
 function Footer() {
     return (
-        <footer class="text-center bg-zinc-800 text-white md:fixed md:bottom-0 md:left-0 rounded w-full">
-        <div class="container px-6 pt-4 pb-4">
+        <footer class="text-center bg-zinc-800 text-white md:fixed md:bottom-0 md:left-0 rounded  w-full">
+        <div class="container mr-auto ml-auto px-6 pt-4 pb-4">
           <div class="flex justify-center ">
            <span class="p-2 pr-28">Find me on social media!</span>
       
