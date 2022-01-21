@@ -32,8 +32,8 @@
   top: 100%;
   height: 3px;
   width: 100%;
-  border-radius: 30%;
-  background-color: #f4f5f4;
+  border-radius: 20%;
+  background-color: #6b5edf;
   -webkit-transform-origin: center top;
           transform-origin: center top;
   -webkit-transform: scale(0, 1);
