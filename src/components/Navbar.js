@@ -17,22 +17,22 @@ function Nav() {
               </div>
               <div className="hidden md:block">
                 <div className="ml-10 flex items-baseline space-x-4">
-                  <NavLink to='/'
-                    className=" hover:bg-zinc-700 text-gray-300 px-3 py-2 rounded-md text-sm font-medium" >Home</NavLink>
+                  <NavLink to='/' activeClassName="active"
+                    className="text-gray-300 hover:bg-zinc-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium" >Home</NavLink>
 
-                  <NavLink to='/about' 
+                  <NavLink to='/about' activeClassName="active"
                     className="text-gray-300 hover:bg-zinc-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">About</NavLink>
 
-                  <NavLink to='/skills'
+                  <NavLink to='/skills' activeClassName="active"
                     className="text-gray-300 hover:bg-zinc-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium" >Skills</NavLink>
 
-                  <NavLink to='/projects'
+                  <NavLink to='/projects' activeClassName="active"
                     className="text-gray-300 hover:bg-zinc-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">Projects</NavLink>
 
-                  <NavLink to='/dance'
+                  <NavLink to='/dance' activeClassName="active"
                     className="text-gray-300 hover:bg-zinc-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">Dance</NavLink>
                                       
-                  <NavLink to='/contact'
+                  <NavLink to='/contact' activeClassName="active"
                     className="text-gray-300 hover:bg-zinc-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">Contact</NavLink>
                 </div>
               </div>
@@ -97,7 +97,7 @@ function Nav() {
             <div className="md:hidden" id="mobile-menu">
               <div ref={ref} className="px-2 pt-2 pb-3 space-y-1 sm:px-3">
                 <NavLink to='/'
-                  className="hover:bg-zinc-700 text-white block px-3 py-2 rounded-md text-base font-medium">Home</NavLink>
+                  className="text-gray-300 hover:bg-zinc-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium">Home</NavLink>
 
                 <NavLink to='/about'
                   className="text-gray-300 hover:bg-zinc-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium">About</NavLink>
