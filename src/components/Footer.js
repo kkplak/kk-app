@@ -9,7 +9,7 @@ function Footer() {
         <div class="flex justify-center mb-9">
          
        
-          <a href="#!" class="mr-9 text-gray-300 hover:text-blue-400">
+          <a href="https://www.instagram.com/kkplak/" class="mr-9 text-gray-300 hover:text-blue-400">
             <svg
               aria-hidden="true"
               focusable="false"
@@ -26,7 +26,7 @@ function Footer() {
               ></path>
             </svg>
           </a>
-          <a href="#!" class="mr-9 text-gray-300 hover:text-blue-400">
+          <a href="https://www.linkedin.com/in/kkplak/" class="mr-9 text-gray-300 hover:text-blue-400">
             <svg
               aria-hidden="true"
               focusable="false"
@@ -43,7 +43,7 @@ function Footer() {
               ></path>
             </svg>
           </a>
-          <a href="#!" class="text-gray-300 hover:text-blue-400">
+          <a href="https://github.com/kkplak" class="text-gray-300 hover:text-blue-400">
             <svg
               aria-hidden="true"
               focusable="false"
