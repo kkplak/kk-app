@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "MERN Stack",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./img/crypto1.png",
+    image: "https://cdn.dribbble.com/users/2947819/screenshots/15807049/media/59d880a2c826dd891a475765ee8a46b4.png?compress=1&resize=400x300",
     link: "https://github.com/kkplak",
   },
   {
@@ -12,7 +12,7 @@ export const projects = [
     subtitle: "React and Python",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "src/img/crypto1.png",
+    image: "https://cdn.dribbble.com/users/1889975/screenshots/11608995/media/6211342e6d31f79f045878484a365731.png?compress=1&resize=400x300",
     link: "https://github.com/kkplak",
   },
   {
@@ -20,7 +20,7 @@ export const projects = [
     subtitle: "React and Firebase",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwebflow.com%2Ftemplates%2Fhtml%2Fcrypto-app-website-template&psig=AOvVaw25Ody0_IOF362VGeB1meeo&ust=1643111419642000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCLCp1ZapyvUCFQAAAAAdAAAAABAD",
+    image: "https://monsterspost.com/wp-content/uploads/2018/10/bitunet-cryptocurrency-wordpress-theme-16.png",
     link: "https://github.com/kkplak",
   },
   {
@@ -28,7 +28,7 @@ export const projects = [
     subtitle: "React Hooks",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwebflow.com%2Ftemplates%2Fhtml%2Fcrypto-app-website-template&psig=AOvVaw25Ody0_IOF362VGeB1meeo&ust=1643111419642000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCLCp1ZapyvUCFQAAAAAdAAAAABAD",
+    image: "https://thumbs.dreamstime.com/z/crypto-currency-website-cryptocurrency-digital-money-technology-concept-vector-template-landing-page-trading-145542306.jpg",
     link: "https://github.com/kkplak",
   },
 ];

@@ -2,8 +2,9 @@
 import { CodeIcon } from "@heroicons/react/solid";
 import React from "react";
 import { projects } from "../data";
-import { TerminalIcon, UsersIcon } from "@heroicons/react/solid";
+import { TerminalIcon, UsersIcon, FilmIcon } from "@heroicons/react/solid";
 import { testimonials } from "../data"; 
+
 
 
 export default function Projects() {
@@ -47,7 +48,77 @@ export default function Projects() {
           ))}
         </div>
       </div>
-      <div className="container px-5 py-10 mx-auto text-center">
+
+
+
+
+
+
+      <div className="container px-5 py-10 mx-auto text-center z-9 lg:px-40">
+        <div className="flex flex-col w-full mb-20">
+          <FilmIcon className="mx-auto inline-block w-10 mb-4" />
+          <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-white">
+            Design & Movement Directing
+          </h1>
+          <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo
+            facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam
+            fuga dolore.
+          </p>
+          
+        </div>
+        </div>
+
+
+ <div className="flex flex-wrap justify-center">
+
+        <div className="max-w-sm rounded overflow-hidden shadow-xl">
+        <div className="px-10 py-4" class=" w-full padding:56.25% 0 0 0; position:relative;">
+          
+        <iframe src="https://player.vimeo.com/video/472255384?h=28288e07f9&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen class="position:absolute; top:0; left:0; width:100%; height:100%;" title="The Screamer"></iframe>
+        </div>
+
+      <div className="px-14 py-1 ">
+        <div className="font-bold text-zinc-200 text-xl mb-2">
+          The Screamer
+        </div>
+        <p className="text-zinc-500 text-base">
+          Project with Malaysian dance artist Xin Yen Tan for Nanyang Academy of Fine Arts in Singapore <span></span>
+        </p>
+      </div>
+      <div className="px-14 pt-4 pb-12">
+        <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-zinc-700 mr-2">Project Director</span>
+        <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-zinc-700 mr-2">Premiere Pro</span>
+      </div>
+    </div>
+
+
+
+
+    <div className="max-w-sm rounded overflow-hidden shadow-xl">
+    <div className="px-10 py-4" class=" w-full padding:56.25% 0 0 0; position:relative;">
+
+    <iframe src="https://player.vimeo.com/video/500158582?h=ad2f1f0133&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen class="position:absolute; top:0; left:0; width:100%; height:100%;" title="GEN3515"></iframe>
+    </div>
+      <div className="px-14 py-4 ">
+        <div className="font-bold text-zinc-200 text-xl mb-2">
+         GEN3515
+        </div>
+        <p className="text-zinc-500 text-base">
+          Short dance film by Jusin Chen featured in Moving Body (Bulgaria), Minimalen Kortfilmfestival (Norway) and MEME PAS PEUR (Reunion) film festivals.<span></span>
+        </p>
+      </div>
+      <div className="px-14 pt-4 pb-12">
+        <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-zinc-700 mr-2">Movement Director</span>
+        <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-zinc-700 mr-2">Artist</span>
+ 
+      </div>
+    </div>
+
+ </div>
+
+
+      <div className="container px-5 pb-10 pt-20 mx-auto text-center">
         <UsersIcon className="w-10 inline-block mb-4" />
         <h1 className="sm:text-4xl text-3xl font-medium title-font text-white mb-12">
           Client Testimonials
@@ -76,8 +147,11 @@ export default function Projects() {
               </div>
             </div>
           ))}
+          
         </div>
+        
       </div>
+      
     </section>
   );
 }

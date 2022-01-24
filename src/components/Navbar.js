@@ -28,9 +28,6 @@ function Nav() {
 
                   <NavLink to='/projects' activeClassName="active"
                     className="text-gray-300 hover:bg-zinc-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">Projects</NavLink>
-
-                  <NavLink to='/dance' activeClassName="active"
-                    className="text-gray-300 hover:bg-zinc-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">Dance</NavLink>
                                       
                   <NavLink to='/contact' activeClassName="active"
                     className="text-gray-300 hover:bg-zinc-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">Contact</NavLink>
@@ -108,9 +105,6 @@ function Nav() {
                 <NavLink to='/projects'
                   className="text-gray-300 hover:bg-zinc-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium">Projects</NavLink>
 
-                <NavLink to='/dance'
-                  className="text-gray-300 hover:bg-zinc-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium">Dance</NavLink>
-                  
                 <NavLink to='/contact'
                   className="text-gray-300 hover:bg-zinc-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium">Contact</NavLink>
               </div>
