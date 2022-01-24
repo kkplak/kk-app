@@ -73,12 +73,12 @@ export default function Projects() {
  <div className="flex flex-wrap justify-center">
 
         <div className="max-w-sm rounded overflow-hidden shadow-xl">
-        <div className="px-10 py-4" class=" w-full padding:56.25% 0 0 0; position:relative;">
+        <div className=" pl-10 py-4" class=" w-full padding:56.25% 0 0 0; position:relative;">
           
         <iframe src="https://player.vimeo.com/video/472255384?h=28288e07f9&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen class="position:absolute; top:0; left:0; width:100%; height:100%;" title="The Screamer"></iframe>
         </div>
 
-      <div className="px-14 py-1 ">
+      <div className="px-14 py-4 ">
         <div className="font-bold text-zinc-200 text-xl mb-2">
           The Screamer
         </div>
@@ -88,7 +88,7 @@ export default function Projects() {
       </div>
       <div className="px-14 pt-4 pb-12">
         <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-zinc-700 mr-2">Project Director</span>
-        <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-zinc-700 mr-2">Premiere Pro</span>
+        <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-zinc-700 mr-2">Video Editor</span>
       </div>
     </div>
 
@@ -96,9 +96,9 @@ export default function Projects() {
 
 
     <div className="max-w-sm rounded overflow-hidden shadow-xl">
-    <div className="px-10 py-4" class=" w-full padding:56.25% 0 0 0; position:relative;">
+    <div className=" pl-10 py-4" class=" w-full padding:56.25% 0 0 0; position:relative;">
 
-    <iframe src="https://player.vimeo.com/video/500158582?h=ad2f1f0133&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen class="position:absolute; top:0; left:0; width:100%; height:100%;" title="GEN3515"></iframe>
+    <iframe src="https://player.vimeo.com/video/500158582?h=ad2f1f0133&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"  frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen class="position:absolute; top:0; left:0; width:100%; height:100%;" title="GEN3515"></iframe>
     </div>
       <div className="px-14 py-4 ">
         <div className="font-bold text-zinc-200 text-xl mb-2">
@@ -111,6 +111,50 @@ export default function Projects() {
       <div className="px-14 pt-4 pb-12">
         <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-zinc-700 mr-2">Movement Director</span>
         <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-zinc-700 mr-2">Artist</span>
+ 
+      </div>
+    </div>
+
+
+
+    <div className="max-w-sm rounded overflow-hidden shadow-xl">
+    <div className=" pl-10 py-4" class=" w-full padding:56.25% 0 0 0; position:relative;">
+
+    <iframe src="https://player.vimeo.com/video/669500691?h=420357c20f" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+    </div>
+      <div className="px-14 py-4 ">
+        <div className="font-bold text-zinc-200 text-xl mb-2">
+         VOID
+        </div>
+        <p className="text-zinc-500 text-base">
+          Work directed and choreographed for students of University of Music and Performing Arts in Frankfrurt (Germany). Featured in Gallus Theater.<span></span>
+        </p>
+      </div>
+      <div className="px-14 pt-4 pb-12">
+        <span className="inline-block bg-gray-200 rounded-full px-3 py-1 mb-1 text-sm font-semibold text-zinc-700 mr-2">Creative</span>
+        <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-zinc-700 mr-2">Movement Director</span>
+ 
+      </div>
+    </div>
+
+
+    <div className="max-w-sm rounded overflow-hidden shadow-xl">
+    <div className=" pl-10 py-4" class=" w-full padding:56.25% 0 0 0; position:relative;">
+
+   <a href="https://bakchormeeboy.com/2020/09/15/dance-with-me-dancers-locker-2020-by-frontier-danceland-review/"> 
+   <img src="https://i.imgur.com/TuyGRX9.png"></img></a>
+    </div>
+      <div className="px-14 py-4 ">
+        <div className="font-bold text-zinc-200 text-xl mb-2">
+         Zulkefly
+        </div>
+        <p className="text-zinc-500 text-base">
+        An experimental film. Semi auto-fiction meets surrealist ideas of contact improvisation in a (de)construction of the subjectivities of a character's struggle with her past trauma.<span></span>
+        </p>
+      </div>
+      <div className="px-14 pt-4 pb-12">
+        <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-zinc-700 mr-2">Project Director</span>
+        <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-zinc-700 mr-2">Video Editor</span>
  
       </div>
     </div>
