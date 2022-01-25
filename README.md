@@ -62,7 +62,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment![Screenshot (31)](https://user-images.githubusercontent.com/93290831/150993894-60ab1102-dd43-4009-84bf-e516834309b6.png)
+### Deployment!
 
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
