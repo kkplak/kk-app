@@ -4,30 +4,30 @@ export const projects = [
     subtitle: "HTML5 + CSS3",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "https://user-images.githubusercontent.com/93290831/150980822-23e557fd-0013-46cb-9017-38371b79b84e.png",
-    link: "https://github.com/kkplak",
+    image: "https://user-images.githubusercontent.com/93290831/151003209-27e854e2-f535-4080-a3c7-1e54f6515af4.png",
+    link: "https://github.com/kkplak/portfolio-website-html",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Personal Website",
+    subtitle: "React.js with TailwindCSS",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "https://cdn.dribbble.com/users/1889975/screenshots/11608995/media/6211342e6d31f79f045878484a365731.png?compress=1&resize=400x300",
-    link: "https://github.com/kkplak",
+    image: "https://user-images.githubusercontent.com/93290831/150993894-60ab1102-dd43-4009-84bf-e516834309b6.png",
+    link: "https://github.com/kkplak/kk-app",
   },
   {
-    title: "DevChat",
+    title: "Candy Crypto",
     subtitle: "React and Firebase",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "https://monsterspost.com/wp-content/uploads/2018/10/bitunet-cryptocurrency-wordpress-theme-16.png",
+      "Coming soon",
+    image: "https://cdn.dribbble.com/users/2251628/screenshots/16998601/media/620d1ce3f7386e07a30a2822e1331f8d.jpg?compress=1&resize=400x300",
     link: "https://github.com/kkplak",
   },
   {
-    title: "Epic Todo App",
+    title: "JP Zbrojenia",
     subtitle: "React Hooks",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Coming soon",
     image: "https://thumbs.dreamstime.com/z/crypto-currency-website-cryptocurrency-digital-money-technology-concept-vector-template-landing-page-trading-145542306.jpg",
     link: "https://github.com/kkplak",
   },
