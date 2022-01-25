@@ -22,7 +22,7 @@ export default function Projects() {
             fuga dolore.
           </p>
         </div>
-        <div className="flex flex-wrap -m-4">
+        <div className="flex mt-16 flex-wrap -m-4">
           {projects.map((project) => (
             <a
               href={project.link}
@@ -49,13 +49,8 @@ export default function Projects() {
         </div>
       </div>
 
-
-
-
-
-
-      <div className="container px-5 py-10 mx-auto text-center z-9 lg:px-40">
-        <div className="flex flex-col w-full mb-20">
+      <div className="container px-5 py-10 mt-10 mx-auto text-center z-9 lg:px-40">
+        <div className="flex flex-col w-full mb-6">
           <FilmIcon className="mx-auto inline-block w-10 mb-4" />
           <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-white">
             Design & Movement Directing
@@ -75,7 +70,7 @@ export default function Projects() {
         <div className="max-w-sm rounded overflow-hidden shadow-xl">
         <div className=" pl-10 py-4" class=" w-full padding:56.25% 0 0 0; position:relative;">
           
-        <iframe src="https://player.vimeo.com/video/472255384?h=28288e07f9&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen class="position:absolute; top:0; left:0; width:100%; height:100%;" title="The Screamer"></iframe>
+        <iframe src="https://player.vimeo.com/video/472255384?h=28288e07f9" className="mr-auto ml-auto pt-10" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen ></iframe>
         </div>
 
       <div className="px-14 py-4 ">
@@ -98,7 +93,7 @@ export default function Projects() {
     <div className="max-w-sm rounded overflow-hidden shadow-xl">
     <div className=" pl-10 py-4" class=" w-full padding:56.25% 0 0 0; position:relative;">
 
-    <iframe src="https://player.vimeo.com/video/500158582?h=ad2f1f0133&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"  frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen class="position:absolute; top:0; left:0; width:100%; height:100%;" title="GEN3515"></iframe>
+    <iframe src="https://player.vimeo.com/video/500158582?h=ad2f1f0133" className="mr-auto ml-auto pt-10" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen ></iframe>
     </div>
       <div className="px-14 py-4 ">
         <div className="font-bold text-zinc-200 text-xl mb-2">
@@ -120,7 +115,7 @@ export default function Projects() {
     <div className="max-w-sm rounded overflow-hidden shadow-xl">
     <div className=" pl-10 py-4" class=" w-full padding:56.25% 0 0 0; position:relative;">
 
-    <iframe src="https://player.vimeo.com/video/669500691?h=420357c20f" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+    <iframe src="https://player.vimeo.com/video/669500691?h=420357c20f" className="mr-auto ml-auto pt-10" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
     </div>
       <div className="px-14 py-4 ">
         <div className="font-bold text-zinc-200 text-xl mb-2">
@@ -141,8 +136,8 @@ export default function Projects() {
     <div className="max-w-sm rounded overflow-hidden shadow-xl">
     <div className=" pl-10 py-4" class=" w-full padding:56.25% 0 0 0; position:relative;">
 
-   <a href="https://bakchormeeboy.com/2020/09/15/dance-with-me-dancers-locker-2020-by-frontier-danceland-review/"> 
-   <img src="https://i.imgur.com/TuyGRX9.png"></img></a>
+    <iframe src="https://player.vimeo.com/video/669783551?h=ab05fbe2b7" className="mr-auto ml-auto pt-10" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
     </div>
       <div className="px-14 py-4 ">
         <div className="font-bold text-zinc-200 text-xl mb-2">

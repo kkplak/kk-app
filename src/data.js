@@ -1,10 +1,10 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "First Portfolio",
+    subtitle: "HTML5 + CSS3",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "https://cdn.dribbble.com/users/2947819/screenshots/15807049/media/59d880a2c826dd891a475765ee8a46b4.png?compress=1&resize=400x300",
+    image: "https://user-images.githubusercontent.com/93290831/150980822-23e557fd-0013-46cb-9017-38371b79b84e.png",
     link: "https://github.com/kkplak",
   },
   {
@@ -44,3 +44,5 @@ export const testimonials = [
     company: "Interior Design & Styling"
   }
 ]
+
+export const expertise = ['Creative Design','Web Development', 'Project Directing', 'Movement Directing', 'UI/UX Interfaces', 'Photograpy & Videography', 'Video Editing', 'Digital Marketing']
