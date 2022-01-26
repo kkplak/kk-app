@@ -22,7 +22,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 ### `npm run build`
 
 Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.![Screenshot (37)](https://user-images.githubusercontent.com/93290831/151003614-dbd55db5-f1de-4776-b451-b422ccdbf90c.png)
+It correctly bundles React in production mode and optimizes the build for the best performance.!
 
 
 The build is minified and the filenames include the hashes.\
@@ -62,7 +62,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment![Screenshot (31)](https://user-images.githubusercontent.com/93290831/150993894-60ab1102-dd43-4009-84bf-e516834309b6.png)
+### Deployment!
 
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
@@ -70,4 +70,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-![Uploading Screenshot (37).png…]()
+!![Screenshot (35)](https://user-images.githubusercontent.com/93290831/151073396-968cc28d-59b9-4856-85ae-017c11a72b8d.png)
+![Screenshot (39)](https://user-images.githubusercontent.com/93290831/151073408-73f04e7e-3864-4178-b2b1-5c87638bbf64.png)
+![Screenshot (41)](https://user-images.githubusercontent.com/93290831/151073423-68835d27-7dc9-4d6c-8f56-322d09ea034a.png)
+![Screenshot (40)](https://user-images.githubusercontent.com/93290831/151073441-f5416fff-a3ab-40a8-b857-3a6bdfe965d8.png)
