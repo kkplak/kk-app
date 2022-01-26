@@ -4,6 +4,7 @@ import { IdentificationIcon, AcademicCapIcon } from "@heroicons/react/solid";
 
 
 
+
 export default function About() {
   return (
     <section id="about">
@@ -18,7 +19,7 @@ export default function About() {
 
          <div className="container mx-auto flex px-10 md:flex-row flex-col items-center h-max">
           <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
-            <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white  lg:inline-block">
+            <h1 className="title-font sm:text-3xl text-2xl mb-4 font-medium text-white  lg:inline-block">
               From Dance to Programming
             </h1>
             <p className="mb- leading-relaxed">
@@ -30,17 +31,15 @@ After more than 10 years of professional experience as an artist, I am here now 
           
           </div>
           <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
-            <img
-              className="object-cover object-center rounded "
-              alt="svg"
-              src="https://cdn.dribbble.com/users/614270/screenshots/4048172/yoga_drib02.gif"
-            />
+           
+              <img  className="object-cover object-center rounded-md " src={require('./about.png')} />
+            
           </div>
         </div>
 
 
 
-      <div className="container px-5 py-10 mx-auto ">
+      <div className="container px-5 pb-10 pt-20 mx-auto ">
         <div className="text-center mb-20 ">
           <AcademicCapIcon className="w-10 inline-block mb-4" />
           <h1 className="sm:text-4xl text-3xl font-medium title-font text-white mb-4">

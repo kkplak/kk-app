@@ -31,8 +31,8 @@ export default function About() {
           <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
             <img
               className="object-cover object-center rounded "
-              alt="svg"
-              src="https://cdn.dribbble.com/users/614270/screenshots/4048172/yoga_drib02.gif"
+              alt="mockup"
+              src="\"
             />
           </div>
         </div>
