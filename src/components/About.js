@@ -23,9 +23,11 @@ export default function About() {
               From Dance to Programming
             </h1>
             <p className="mb- leading-relaxed">
-            Change is difficult, but switching jobs is necessary for both personal and professional growth.
-At first I thought it would be impossible to jump from the biggest stages of the world to an office desk with a computer in front of me. Then I realized that it is not my mind nor body that changes. It is just the title. We stay with the same character, with the same spark and creativity no matter where life takes us.
-After more than 10 years of professional experience as an artist, I am here now creatively coding my way into the world of web development.
+            Change is difficult, but switching jobs is necessary for both personal and professional growth. 
+            At first, I thought it would be impossible to jump from the biggest stages of the world to an office desk with a computer in front of me.
+             Then I realized that it is not my mind nor body that changes. It is just the title. We stay with the same character,
+              with the same spark and creativity no matter where life takes us. After more than 10 years of professional experience as an artist,
+             I am here now, creatively coding my way into the world of web development.
             </p>
             
           
@@ -58,7 +60,7 @@ After more than 10 years of professional experience as an artist, I am here now 
         <div class="absolute w-3 h-3 bg-gray-200 rounded-full -left-1.5 border border-white dark:border-zinc-900 dark:bg-zinc-700"></div>
         <time class="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">December 2021</time>
         <h3 class="text-lg pt-1 font-semibold text-gray-900 dark:text-white">Bachelor of Arts - HfMDK Germany</h3>
-        <p class="mb-24 pt-1 text-base font-normal text-gray-500 dark:text-gray-400">Awarded with "Studienstiftung Des Deutsches Volkes" scholarship as a support for the ‘higher education of young people showing exceptional promise for academic or artistic accomplishment, who stand out by virtue of their personality and are willing to render service to society as a whole’.</p>
+        <p class="mb-24 pt-1 text-base font-normal text-gray-500 dark:text-gray-400">Awarded with "Studienstiftung Des Deutsches Volkes" scholarship for the higher education of young people showing exceptional promise for academic or artistic accomplishment, who stand out by virtue of their personality and are willing to render service to society as a whole.</p>
     </li>
     <li class="mb-10 ml-4">
         <div class="absolute w-3 h-3 bg-gray-200 rounded-full -left-1.5 border border-white dark:border-zinc-900 dark:bg-zinc-700"></div>

@@ -14,12 +14,12 @@ export default function Projects() {
         <div className="flex flex-col w-full mb-20">
           <CodeIcon className="mx-auto inline-block w-10 mb-4" />
           <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-white">
-            Apps I've Built
+            Web Design and Development
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo
-            facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam
-            fuga dolore.
+          I am continually working on creating new projects that are up-to-date with modern front-end technologies.
+           My services include combining design elements to create aesthetically appealing layouts, advertisements, reports,
+           logos and posters as well as building and maintaining responsive websites using HTML5, CCS3, JavaScript and React.js with neat and user-friendly UI and UX.
           </p>
         </div>
         <div className="flex mt-16 flex-wrap -m-4">
@@ -34,7 +34,7 @@ export default function Projects() {
                   className="absolute inset-0 w-full h-full object-fit blur object-center"
                   src={project.image}
                 />
-                <div className="px-8 py-10 relative z-10 w-full border-4 border-zinc-800 bg-zinc-900 opacity-80 hover:opacity-100">
+                <div className="px-8 py-28 relative z-10 w-full border-4 border-zinc-800 bg-zinc-900 opacity-80 hover:opacity-100">
                   <h2 className="tracking-widest text-sm title-font font-medium text-blue-500 mb-1">
                     {project.subtitle}
                   </h2>
@@ -56,9 +56,8 @@ export default function Projects() {
             Design & Movement Directing
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo
-            facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam
-            fuga dolore.
+            With over 10+ years as a creative I have experience in various design fields.
+        
           </p>
           
         </div>

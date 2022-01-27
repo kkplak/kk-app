@@ -38,12 +38,7 @@ export default function Skills() {
           <h1 className="sm:text-4xl text-3xl font-medium title-font text-white mb-4">
             Areas of expertise
           </h1>
-          <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-          My goal is to create a great product that is the sum of the design and development 
-          process. By incorporating both of the fields with
-           adequate research beforehand, I develop simple yet 
-           detailed works based on the customer needs.
-          </p>
+         
         </div>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
           {expertise.map((expertise) => (

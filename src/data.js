@@ -2,8 +2,8 @@ export const projects = [
   {
     title: "First Portfolio",
     subtitle: "HTML5 + CSS3",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+    description: "Tech stack: HTML5, CSS3, Bootstrap, Javascript, CSS animation",
+      
     image: "https://user-images.githubusercontent.com/93290831/151003209-27e854e2-f535-4080-a3c7-1e54f6515af4.png",
     link: "https://github.com/kkplak/portfolio-website-html",
   },
@@ -11,15 +11,15 @@ export const projects = [
     title: "Personal Website",
     subtitle: "React.js with TailwindCSS",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+     "Tech stack: React.js, TailwindCSS, React Router Dom 6, heroicons, ",
     image: "https://user-images.githubusercontent.com/93290831/150993894-60ab1102-dd43-4009-84bf-e516834309b6.png",
     link: "https://github.com/kkplak/kk-app",
   },
   {
     title: "Candy Crypto",
-    subtitle: "React and Firebase",
+    subtitle: "Redux and Firebase",
     description:
-      "Coming soon",
+      "Coming soon. A cryptocurrency website. React.js Redux, Firebase",
     image: "https://cdn.dribbble.com/users/2251628/screenshots/16998601/media/620d1ce3f7386e07a30a2822e1331f8d.jpg?compress=1&resize=400x300",
     link: "https://github.com/kkplak",
   },
@@ -27,8 +27,8 @@ export const projects = [
     title: "JP Zbrojenia",
     subtitle: "React Hooks",
     description:
-      "Coming soon",
-    image: "https://thumbs.dreamstime.com/z/crypto-currency-website-cryptocurrency-digital-money-technology-concept-vector-template-landing-page-trading-145542306.jpg",
+      "Coming soon. Website for construction company. Axions and API",
+    image: "https://dt2sdf0db8zob.cloudfront.net/wp-content/uploads/2020/02/5-Best-Website-Builders-for-a-Construction-Company-image1.jpg",
     link: "https://github.com/kkplak",
   },
 ];
