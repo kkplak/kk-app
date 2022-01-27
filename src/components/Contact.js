@@ -30,7 +30,7 @@ import emailjs from "emailjs-com";
             Hire Me
           </h2>
           <p className="leading-relaxed mb-5">
-          I am available to hire for full-time positions and freelance projects. Please do send me an email or submit the form below.
+          I am available to hire for full-time positions and freelance projects. Want to talk? Please submit the form below or reach me through social medias.
           </p>
           <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-gray-400">
