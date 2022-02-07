@@ -2,33 +2,33 @@ export const projects = [
   {
     title: "First Portfolio",
     subtitle: "HTML5 + CSS3",
-    description: "Tech stack: HTML5, CSS3, Bootstrap, Javascript, CSS animation",
+    description: "Template website for simple yet detailed personal portfolio",
       
     image: "https://user-images.githubusercontent.com/93290831/151003209-27e854e2-f535-4080-a3c7-1e54f6515af4.png",
     link: "https://github.com/kkplak/portfolio-website-html",
   },
   {
     title: "Personal Website",
-    subtitle: "React.js with TailwindCSS",
+    subtitle: "React.js + TailwindCSS + React Router Dom 6",
     description:
-     "Tech stack: React.js, TailwindCSS, React Router Dom 6, heroicons, ",
+     "Reseach, content creation, development, maintenance and enhancements",
     image: "https://user-images.githubusercontent.com/93290831/150993894-60ab1102-dd43-4009-84bf-e516834309b6.png",
     link: "https://github.com/kkplak/kk-app",
   },
   {
-    title: "Candy Crypto",
-    subtitle: "Redux and Firebase",
+    title: "Weather App",
+    subtitle: "React Hooks + Data Fetching + Moment.js + Recharts",
     description:
-      "Coming soon. A cryptocurrency website. React.js Redux, Firebase",
-    image: "https://cdn.dribbble.com/users/2251628/screenshots/16998601/media/620d1ce3f7386e07a30a2822e1331f8d.jpg?compress=1&resize=400x300",
-    link: "https://github.com/kkplak",
+      "Weather app providing live forecast, time and date for certain location",
+    image: "https://user-images.githubusercontent.com/93290831/152686211-61e464ad-8584-4d82-b41f-6a7501c9edcd.png",
+    link: "https://github.com/kkplak/weather-app",
   },
   {
-    title: "JP Zbrojenia",
-    subtitle: "React Hooks",
+    title: "Candy Crypto",
+    subtitle: "Redux + Firebase",
     description:
-      "Coming soon. Website for construction company. Axions and API",
-    image: "https://dt2sdf0db8zob.cloudfront.net/wp-content/uploads/2020/02/5-Best-Website-Builders-for-a-Construction-Company-image1.jpg",
+      "Coming soon. Website for cryptocurrency. Axions and API",
+    image: "https://codecanyon.img.customer.envatousercontent.com/files/324311006/01-Preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=9b6e3e8cc3353cee727d68fdb1988237",
     link: "https://github.com/kkplak",
   },
 ];
