@@ -11,7 +11,7 @@ export const projects = [
     title: "Personal Website",
     subtitle: "React.js + TailwindCSS + React Router Dom 6",
     description:
-     "Reseach, content creation, development, maintenance and enhancements",
+     "Research, content creation, development, maintenance and enhancements",
     image: "https://user-images.githubusercontent.com/93290831/150993894-60ab1102-dd43-4009-84bf-e516834309b6.png",
     link: "https://github.com/kkplak/kk-app",
   },
@@ -33,14 +33,14 @@ export const projects = [
   },
 ];
 
-export const skills = ['React.js','JavaScript','HTML5 & CSS3','Tailwind CSS','Git & GitHub', 'Figma', 'Adobe Creative Cloud', 'DaVinci Resolve']
+export const skills = ['React.js','JavaScript','HTML5 & CSS3','Tailwind CSS','Git & GitHub', 'Figma', 'Adobe Creative Cloud', 'DaVinci Resolve', 'JIRA', "Confluence"]
 
 
 export const testimonials = [
   {
     quote: "Konrad is a highly driven and goal oriented person who usually goes the extra miles to achieve it what he envisions. Brave and youthful , self explanatory when you have the chance to connect and speak to him over tea, about his journey thus far even at a tender age. Glad to have worked with you!",
     name: "Fatin Zulkefly",
-    image: "https://media-exp1.licdn.com/dms/image/C5103AQG8mkO6AoAQRg/profile-displayphoto-shrink_800_800/0/1544436794221?e=1648684800&v=beta&t=6T76gDAuHp5x85Nome458kE9PaRjogUhyKNJiun9XHE",
+    image: "https://media-exp1.licdn.com/dms/image/C5603AQHuU6xrAj06xg/profile-displayphoto-shrink_400_400/0/1644281412440?e=1649894400&v=beta&t=vfp3XfYpPoNUpTxQO8gtIH-NKDz-IPSR6XEBeRuT-rw",
     company: "Interior Design & Styling"
   }
 ]
