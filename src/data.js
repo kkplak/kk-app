@@ -11,7 +11,7 @@ export const projects = [
     title: "Personal Website",
     subtitle: "React.js + TailwindCSS + React Router Dom 6",
     description:
-     "Research, content creation, development, maintenance and enhancements",
+     "Research, design, development, maintenance and enhancements",
     image: "https://user-images.githubusercontent.com/93290831/150993894-60ab1102-dd43-4009-84bf-e516834309b6.png",
     link: "https://github.com/kkplak/kk-app",
   },
@@ -33,7 +33,7 @@ export const projects = [
   },
 ];
 
-export const skills = ['React.js','JavaScript','HTML5 & CSS3','Tailwind CSS','Git & GitHub', 'Figma', 'Adobe Creative Cloud', 'DaVinci Resolve', 'JIRA', "Confluence"]
+export const skills = ['React.js','JavaScript','HTML5 & CSS3','CSS Libraries','Package Managers','GraphQL, Apollo Client', 'Git & GitHub', 'Figma', 'Adobe Creative Cloud', 'DaVinci Resolve', 'JIRA', "Confluence"]
 
 
 export const testimonials = [
