@@ -25,7 +25,7 @@ export const projects = [
   },
   {
     title: "Candy Crypto",
-    subtitle: "Redux + Firebase",
+    subtitle: "GraphQL + Jest",
     description:
       "Coming soon. Website for cryptocurrency. Axions and API",
     image: "https://codecanyon.img.customer.envatousercontent.com/files/324311006/01-Preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=9b6e3e8cc3353cee727d68fdb1988237",
@@ -33,7 +33,7 @@ export const projects = [
   },
 ];
 
-export const skills = ['React.js','JavaScript','HTML5 & CSS3','CSS Libraries','Package Managers','GraphQL, Apollo Client', 'Git & GitHub', 'Figma', 'Adobe Creative Cloud', 'DaVinci Resolve', 'JIRA', "Confluence"]
+export const skills = ['React.js','JavaScript','HTML5 & CSS3','CSS Libraries','Package Managers','GraphQL, Apollo Client','Unit Testing: Jest', 'Git & GitHub', 'Figma', 'Adobe Creative Cloud', 'DaVinci Resolve', 'JIRA & Confluence']
 
 
 export const testimonials = [
@@ -45,4 +45,4 @@ export const testimonials = [
   }
 ]
 
-export const expertise = ['Creative Design','Web Development', 'Project Directing', 'Movement Directing', 'UI/UX Interfaces', 'Photograpy & Videography', 'Video Editing', 'Digital Marketing']
+export const expertise = ['Creative Design','Web Development', 'Project Directing', 'Movement Directing', 'UI/UX Interfaces', 'Photograpy & Videography', 'Video Editing', 'Digital Marketing', 'Quality Assurance']
