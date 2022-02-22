@@ -1,12 +1,9 @@
-Preview of the code - Project section
+Preview of the code - Projects section
 ![Screenshot (35)](https://user-images.githubusercontent.com/93290831/151073396-968cc28d-59b9-4856-85ae-017c11a72b8d.png)
 
 
 
-
-
 ![Screenshot (39)](https://user-images.githubusercontent.com/93290831/151073408-73f04e7e-3864-4178-b2b1-5c87638bbf64.png)
-
 
 
 
