@@ -1,15 +1,14 @@
 
-import { CodeIcon } from "@heroicons/react/solid";
+import { CodeIcon, TemplateIcon, AdjustmentsIcon, TerminalIcon, UsersIcon, FilmIcon } from "@heroicons/react/solid";
 import React from "react";
 import { projects } from "../data";
-import { TerminalIcon, UsersIcon, FilmIcon } from "@heroicons/react/solid";
 import { testimonials } from "../data"; 
 
 
 
 export default function Projects() {
   return (
-    <section id="projects" className="text-gray-400 bg-zinc-900 body-font h-max">
+    <section id="projects" className="text-gray-400  body-font h-max">
       <div className="container px-5 py-10 mx-auto text-center z-9 lg:px-40">
         <div className="flex flex-col w-full mb-20">
           <CodeIcon className="mx-auto inline-block w-10 mb-4" />
@@ -154,6 +153,84 @@ export default function Projects() {
     </div>
 
  </div>
+
+
+
+ <div className="container px-5 py-10 mt-10 mx-auto text-center z-9 lg:px-40">
+        <div className="flex flex-col w-full mb-6">
+          <TemplateIcon className="mx-auto inline-block w-10 mb-4" />
+          <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-white">
+           Figma Designs
+          </h1>
+        </div>
+       
+
+           <div className="max-w-sm rounded overflow-hidden shadow-sm">
+             <img src="#" alt="figma1" className="w-full"></img>
+             <div className="px-6 py-4">
+              <div className="font-bold text-gray-200 text-m mb-2">Design 1</div> 
+             </div>
+           </div> 
+
+           <div className="max-w-sm rounded overflow-hidden shadow-sm">
+             <img src="#" alt="figma2" className="w-full"></img>
+             <div className="px-6 py-4">
+              <div className="font-bold text-gray-200 text-m mb-2">Design 2</div> 
+             </div>
+           </div> 
+
+           <div className="max-w-sm rounded overflow-hidden shadow-sm">
+             <img src="#" alt="figma3" className="w-full"></img>
+             <div className="px-6 py-4">
+              <div className="font-bold text-gray-200 text-m mb-2">Design 3</div> 
+             </div>
+           </div> 
+
+
+</div>
+
+
+
+
+ <div className="container px-5 py-10 mt-10 mx-auto text-center z-9 lg:px-40">
+        <div className="flex flex-col w-full mb-6">
+          <AdjustmentsIcon className="mx-auto inline-block w-10 mb-4" />
+          <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-white">
+           Photo Editing & Digital Manipulation
+          </h1>
+        </div>
+       
+
+           <div className="max-w-sm rounded overflow-hidden shadow-sm">
+             <img src="#" alt="photo1" className="w-full"></img>
+             <div className="px-6 py-4">
+              <div className="font-bold text-gray-200 text-m mb-2">Before</div> 
+             </div>
+           </div> 
+
+           <div className="max-w-sm rounded overflow-hidden shadow-sm">
+             <img src="#" alt="photo1.2" className="w-full"></img>
+             <div className="px-6 py-4">
+              <div className="font-bold text-gray-200 text-m mb-2">After</div> 
+             </div>
+           </div> 
+
+           <div className="max-w-sm rounded overflow-hidden shadow-sm">
+             <img src="#" alt="photo2" className="w-full"></img>
+             <div className="px-6 py-4">
+              <div className="font-bold text-gray-200 text-m mb-2">Before</div> 
+             </div>
+           </div> 
+
+           <div className="max-w-sm rounded overflow-hidden shadow-sm">
+             <img src="#" alt="photo2.2" className="w-full"></img>
+             <div className="px-6 py-4">
+              <div className="font-bold text-gray-200 text-m mb-2">After</div> 
+             </div>
+           </div> 
+
+</div>
+
 
 
       <div className="container px-5 pb-10 pt-20 mx-auto text-center">

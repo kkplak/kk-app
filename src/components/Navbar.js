@@ -1,12 +1,13 @@
 import React, {useState } from "react";
 import {NavLink} from 'react-router-dom'
 import { Transition } from "@headlessui/react";
+import BG from "./bg";
 
 function Nav() {
   const [isOpen, setIsOpen] = useState(false);
   return (
-    <div>
-      <nav className="bg-zinc-800">
+    <div z-120>
+      <nav className="bg-zinc-800"> <BG />
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex items-center justify-between h-16">
             <div className="flex items-center">
