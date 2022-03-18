@@ -2,13 +2,14 @@ import React from 'react'
 
 import { Link } from 'react-router-dom';
 import BG from './bg';
+import BG2 from './BG2';
 
 export default function About() {
     return (
       
       <section class="backdrop" id="home">
      
- 
+
         <div>
  
         <div className="container z-20 mx-auto flex px-10 py-20 md:flex-row flex-col items-center md:h-screen h-max">
@@ -37,7 +38,7 @@ export default function About() {
           </div>
           <div className="lg:max-w-lg lg:w-full py-10 md:w-1/2 w-5/6">
          
-         
+          <img  className="object-cover object-center rounded-md scale-125 " src={require('./kk-mockup5.png')} />
             
           </div>
         </div>

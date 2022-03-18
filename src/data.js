@@ -1,8 +1,10 @@
+
+
 export const projects = [
   {
-    title: "First Portfolio",
+    title: "Simple Personal website template",
     subtitle: "HTML5 + CSS3",
-    description: "Template website for simple yet detailed personal portfolio",
+    description: "Template website for simple yet detailed personal portfolio. About me + My Services sections.",
       
     image: "https://user-images.githubusercontent.com/93290831/151003209-27e854e2-f535-4080-a3c7-1e54f6515af4.png",
     link: "https://github.com/kkplak/portfolio-website-html",
@@ -11,7 +13,7 @@ export const projects = [
     title: "Personal Website",
     subtitle: "React.js + TailwindCSS + React Router Dom 6",
     description:
-     "Research, design, development, maintenance and enhancements",
+     "Fully operational live website. Responsible for research, design, development, maintenance and enhancements.",
     image: "https://user-images.githubusercontent.com/93290831/150993894-60ab1102-dd43-4009-84bf-e516834309b6.png",
     link: "https://github.com/kkplak/kk-app",
   },
@@ -19,21 +21,42 @@ export const projects = [
     title: "Weather App",
     subtitle: "React Hooks + Data Fetching + Moment.js + Recharts",
     description:
-      "Weather app providing live forecast, time and date for certain location",
+      "Weather app providing live forecast, time and date for certain pre-set location.",
     image: "https://user-images.githubusercontent.com/93290831/152686211-61e464ad-8584-4d82-b41f-6a7501c9edcd.png",
     link: "https://github.com/kkplak/weather-app",
   },
   {
-    title: "Candy Crypto",
-    subtitle: "GraphQL + Jest",
+    title: "Analog Clock",
+    subtitle: "JavaScript",
     description:
-      "Coming soon. Website for cryptocurrency. Axions and API",
-    image: "https://codecanyon.img.customer.envatousercontent.com/files/324311006/01-Preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=9b6e3e8cc3353cee727d68fdb1988237",
-    link: "https://github.com/kkplak",
+      "JS project featuring live analog clock. Second, minute and hour hands.",
+    image: "https://user-images.githubusercontent.com/93290831/158994216-c0cd40b2-e35d-47b7-a710-f40c57bb0e96.png",
+    link: "https://github.com/kkplak/clock",
   },
+
+  {
+    title: "Falling Ball Game",
+    subtitle: "JavaScript",
+    description:
+      "JS game. Left and Right Key integration to move a red ball to successfully fall into a hole of constantly coming horizontal blocks. Code along project with @KnifeCircus YT.",
+    image: "https://user-images.githubusercontent.com/93290831/158994417-96a1d360-6bc8-4f88-96d7-456f2809abb0.png",
+    link: "https://github.com/kkplak/fallGame",
+  },
+
+  {
+    title: "Star Wars Yoda Translator",
+    subtitle: "React.js + REST API",
+    description:
+      "Star Wars Yoda translator application with React.js for the user interface and a REST API for translating the text. ",
+    image: "https://starwarsblog.starwars.com/wp-content/uploads/2015/11/yoda-the-empire-strikes-back.jpg",
+    link: undefined,
+  },
+
 ];
 
+
 export const skills = ['React.js','JavaScript','HTML5 & CSS3','CSS Libraries','Package Managers','GraphQL, Apollo Client','Unit Testing: Jest', 'Git & GitHub', 'Figma', 'Adobe Creative Cloud', 'DaVinci Resolve', 'JIRA & Confluence']
+export const expertise = ['Creative Design','Web Development', 'Project Directing', 'Movement Directing', 'UI/UX Interfaces', 'Photograpy & Videography', 'Video Editing', 'Digital Marketing', 'Quality Assurance']
 
 
 export const testimonials = [
@@ -45,4 +68,3 @@ export const testimonials = [
   }
 ]
 
-export const expertise = ['Creative Design','Web Development', 'Project Directing', 'Movement Directing', 'UI/UX Interfaces', 'Photograpy & Videography', 'Video Editing', 'Digital Marketing', 'Quality Assurance']

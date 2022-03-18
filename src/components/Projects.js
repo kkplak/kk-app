@@ -6,6 +6,8 @@ import { testimonials } from "../data";
 
 
 
+
+
 export default function Projects() {
   return (
     <section id="projects" className="text-gray-400  body-font h-max">
@@ -21,19 +23,19 @@ export default function Projects() {
            logos and posters as well as building and maintaining responsive websites using HTML5, CCS3, JavaScript and React.js with neat and user-friendly UI and UX.
           </p>
         </div>
-        <div className="flex mt-16 flex-wrap -m-4">
+        <div className="flex mt-16 flex-wrap">
           {projects.map((project) => (
             <a
               href={project.link}
               key={project.image}
-              className="sm:w-1/2 w-100 p-4">
-              <div className="flex overflow-hidden relative">
+              className="sm:w-1/2  p-2">
+              <div className="flex overflow-hidden w-100 h-96 relative">
                 <img
                   alt="gallery"
                   className="absolute inset-0 w-full h-full object-fit blur object-center"
                   src={project.image}
                 />
-                <div className="px-8 py-28 relative z-10 w-full border-4 border-zinc-800 bg-zinc-900 opacity-80 hover:opacity-100">
+                <div className="px-8 py-28  z-10 w-full border-4 border-zinc-800 bg-zinc-900 opacity-80 hover:opacity-100">
                   <h2 className="tracking-widest text-sm title-font font-medium text-blue-500 mb-1">
                     {project.subtitle}
                   </h2>
@@ -153,6 +155,56 @@ export default function Projects() {
     </div>
 
  </div>
+ 
+
+
+
+
+
+{/*  
+
+ <div className="container px-5 py-10 mt-10 mx-auto text-center z-9 lg:px-40">
+        <div className="flex flex-col w-full mb-6">
+          <AdjustmentsIcon className="mx-auto inline-block w-10 mb-4" />
+          <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-white">
+           Photo Editing & Digital Manipulation
+          </h1>
+        </div>
+       
+       <div className="flex flex-wrap pt-10">
+
+           <div className="max-w-sm rounded overflow-hidden shadow-sm">
+             <img src="src\components\imga1.JPG" alt="imgb1" className="w-full"></img>
+             <div className="px-6 py-4">
+              <div className="font-bold text-gray-200 text-m mb-2">Before</div> 
+             </div>
+           </div> 
+
+           <div className="max-w-sm rounded overflow-hidden shadow-sm">
+             <img src="" alt="imga1" className="w-full"></img>
+             <div className="px-6 py-4">
+              <div className="font-bold text-gray-200 text-m mb-2">After</div> 
+             </div>
+           </div> 
+
+           <div className="max-w-sm rounded overflow-hidden shadow-sm">
+             <img src="#" alt="imgb2" className="w-full"></img>
+             <div className="px-6 py-4">
+              <div className="font-bold text-gray-200 text-m mb-2">Before</div> 
+             </div>
+           </div> 
+
+           <div className="max-w-sm rounded overflow-hidden shadow-sm">
+             <img src="#" alt="imga2" className="w-full"></img>
+             <div className="px-6 py-4">
+              <div className="font-bold text-gray-200 text-m mb-2">After</div> 
+             </div>
+           </div> 
+
+        </div>
+</div>
+
+
 
 
 
@@ -188,49 +240,7 @@ export default function Projects() {
 
 
 </div>
-
-
-
-
- <div className="container px-5 py-10 mt-10 mx-auto text-center z-9 lg:px-40">
-        <div className="flex flex-col w-full mb-6">
-          <AdjustmentsIcon className="mx-auto inline-block w-10 mb-4" />
-          <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-white">
-           Photo Editing & Digital Manipulation
-          </h1>
-        </div>
-       
-
-           <div className="max-w-sm rounded overflow-hidden shadow-sm">
-             <img src="#" alt="photo1" className="w-full"></img>
-             <div className="px-6 py-4">
-              <div className="font-bold text-gray-200 text-m mb-2">Before</div> 
-             </div>
-           </div> 
-
-           <div className="max-w-sm rounded overflow-hidden shadow-sm">
-             <img src="#" alt="photo1.2" className="w-full"></img>
-             <div className="px-6 py-4">
-              <div className="font-bold text-gray-200 text-m mb-2">After</div> 
-             </div>
-           </div> 
-
-           <div className="max-w-sm rounded overflow-hidden shadow-sm">
-             <img src="#" alt="photo2" className="w-full"></img>
-             <div className="px-6 py-4">
-              <div className="font-bold text-gray-200 text-m mb-2">Before</div> 
-             </div>
-           </div> 
-
-           <div className="max-w-sm rounded overflow-hidden shadow-sm">
-             <img src="#" alt="photo2.2" className="w-full"></img>
-             <div className="px-6 py-4">
-              <div className="font-bold text-gray-200 text-m mb-2">After</div> 
-             </div>
-           </div> 
-
-</div>
-
+          */}
 
 
       <div className="container px-5 pb-10 pt-20 mx-auto text-center">

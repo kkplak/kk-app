@@ -7,7 +7,7 @@ import {BrowserRouter as Router, Routes, Route}  from 'react-router-dom';
 import About from './components/About';
 import Projects from './components/Projects';
 import Skills from './components/Skills';
-import BG from './components/bg';
+
 
 
 function App() {
@@ -15,6 +15,7 @@ function App() {
     <Router>
       <main className='text-gray-400 bg-zinc-900 body-font'>
       <Navbar/>
+  
       <Routes>
         <Route path='/' element={<Home/>} />
         <Route path='/contact' element={<Contact/>} />
