@@ -1,22 +1,16 @@
 
 
 export const projects = [
+
   {
-    title: "Simple Personal website template",
-    subtitle: "HTML5 + CSS3",
-    description: "Template website for simple yet detailed personal portfolio. About me + My Services sections.",
-      
-    image: "https://user-images.githubusercontent.com/93290831/151003209-27e854e2-f535-4080-a3c7-1e54f6515af4.png",
-    link: "https://github.com/kkplak/portfolio-website-html",
-  },
-  {
-    title: "Personal Website",
-    subtitle: "React.js + TailwindCSS + React Router Dom 6",
+    title: "Minion Translator",
+    subtitle: "React.js + REST API",
     description:
-     "Fully operational live website. Responsible for research, design, development, maintenance and enhancements.",
-    image: "https://user-images.githubusercontent.com/93290831/150993894-60ab1102-dd43-4009-84bf-e516834309b6.png",
-    link: "https://github.com/kkplak/kk-app",
+      "Minion translator application with React.js for the user interface and a REST API for translating the text. ",
+    image: "https://user-images.githubusercontent.com/93290831/159300291-4adeaa49-0cd9-49d9-a80d-5bca87066773.png",
+    link: "https://github.com/kkplak/minion-app",
   },
+  
   {
     title: "Weather App",
     subtitle: "React Hooks + Data Fetching + Moment.js + Recharts",
@@ -25,6 +19,16 @@ export const projects = [
     image: "https://user-images.githubusercontent.com/93290831/152686211-61e464ad-8584-4d82-b41f-6a7501c9edcd.png",
     link: "https://github.com/kkplak/weather-app",
   },
+
+  {
+    title: "Personal Website",
+    subtitle: "React.js + TailwindCSS + React Router Dom 6",
+    description:
+     "Fully operational live website. Responsible for research, design, development, maintenance and enhancements.",
+    image: "https://user-images.githubusercontent.com/93290831/150993894-60ab1102-dd43-4009-84bf-e516834309b6.png",
+    link: "https://github.com/kkplak/kk-app",
+  },
+  
   {
     title: "Analog Clock",
     subtitle: "JavaScript",
@@ -44,12 +48,12 @@ export const projects = [
   },
 
   {
-    title: "Star Wars Yoda Translator",
-    subtitle: "React.js + REST API",
-    description:
-      "Star Wars Yoda translator application with React.js for the user interface and a REST API for translating the text. ",
-    image: "https://starwarsblog.starwars.com/wp-content/uploads/2015/11/yoda-the-empire-strikes-back.jpg",
-    link: undefined,
+    title: "Simple Personal website template",
+    subtitle: "HTML5 + CSS3",
+    description: "Template website for simple yet detailed personal portfolio. About me + My Services sections.",
+      
+    image: "https://user-images.githubusercontent.com/93290831/151003209-27e854e2-f535-4080-a3c7-1e54f6515af4.png",
+    link: "https://github.com/kkplak/portfolio-website-html",
   },
 
 ];
