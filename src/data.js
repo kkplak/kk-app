@@ -10,6 +10,15 @@ export const projects = [
     image: "https://user-images.githubusercontent.com/93290831/159300291-4adeaa49-0cd9-49d9-a80d-5bca87066773.png",
     link: "https://github.com/kkplak/minion-app",
   },
+
+  {
+    title: "Generative Art Canvas",
+    subtitle: "JavaScript",
+    description:
+      "Generative art canvas based on javascript mouse hover event listener. Current settings: white brush, black bg.",
+    image: "https://user-images.githubusercontent.com/93290831/164984494-47e688a5-8362-405b-9f05-e084b5426c5b.png",
+    link: "https://github.com/kkplak/generative-art",
+  },
   
   {
     title: "Weather App",
@@ -67,7 +76,7 @@ export const testimonials = [
   {
     quote: "Konrad is a highly driven and goal oriented person who usually goes the extra miles to achieve it what he envisions. Brave and youthful , self explanatory when you have the chance to connect and speak to him over tea, about his journey thus far even at a tender age. Glad to have worked with you!",
     name: "Fatin Zulkefly",
-    image: "https://media-exp1.licdn.com/dms/image/C5603AQHuU6xrAj06xg/profile-displayphoto-shrink_400_400/0/1644281412440?e=1649894400&v=beta&t=vfp3XfYpPoNUpTxQO8gtIH-NKDz-IPSR6XEBeRuT-rw",
+    image: "https://media-exp1.licdn.com/dms/image/D5635AQFdeDj8SM4TBQ/profile-framedphoto-shrink_400_400/0/1649645621616?e=2147483647&v=beta&t=pyeDX_bVDujya564ltaorkwJFKeN9QWlAFO59HzBDTg",
     company: "Interior Design & Styling"
   }
 ]
